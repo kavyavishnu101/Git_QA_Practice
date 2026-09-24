@@ -9,3 +9,6 @@ Click on Login button
 
 Testcase 4
 analyze the successful message
+
+Testcase 5: Verify login with valid username and password
+Expected Result: User should be successfully logged in.
