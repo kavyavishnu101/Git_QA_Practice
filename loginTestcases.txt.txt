@@ -6,3 +6,6 @@ Enter Password
 
 Testcase 3
 Click on Login button
+
+Testcase 4
+analyze the successful message
